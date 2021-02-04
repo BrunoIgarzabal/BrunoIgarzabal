@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+# Bruno Igarzabal :man_technologist:
+
+I'm a Web & Mobile Apps developer. Currently my stack is:
+
+💻 Web front-end development with **ReactJS**\
+📱 Mobile applications for iOS and Android with **React Native** and **Flutter**\
+📡 API with **NodeJS**\
+💾 Database: Postgres, Firebase (Cloud Firestore/Real Time), SQL Server, MySQL\
+
 <!--
 **BrunoIgarzabal/BrunoIgarzabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
