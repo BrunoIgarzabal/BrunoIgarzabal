@@ -2,7 +2,7 @@
 
 # Bruno Igarzabal :man_technologist:
 
-I'm a Web & Mobile Apps developer. Currently my stack is:
+I'm a Web & Mobile Apps developer. Currently my skills are:
 
 💻 Web front-end development with **ReactJS** and **Angular**\
 📱 Mobile applications for iOS and Android with **React Native** and **Flutter**\
