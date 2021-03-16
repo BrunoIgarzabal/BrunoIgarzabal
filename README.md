@@ -7,7 +7,7 @@ I'm a Web & Mobile Apps developer. Currently my skills are:
 💻 Web front-end development with **ReactJS** and **Angular**\
 📱 Mobile applications for iOS and Android with **React Native** and **Flutter**\
 📡 API with **NodeJS** and **Java** with **Spring Boot**\
-💾 Database: Postgres, Firebase (Cloud Firestore/Real Time), SQL Server, MySQL\
+💾 Database: Postgres, Firebase (Cloud Firestore/Real Time), SQL Server, MySQL
 
 <!--
 **BrunoIgarzabal/BrunoIgarzabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
