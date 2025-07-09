@@ -4,7 +4,7 @@
 
 I'm a Web & Mobile Apps developer. Currently my skills are:
 
-💻 Web front-end development with **NextJS**
+💻 Web front-end development with **NextJS**\
 📱 Mobile applications for iOS and Android with **React Native** and **Flutter**\
 📡 API with **NodeJS** using **Express**\
 
